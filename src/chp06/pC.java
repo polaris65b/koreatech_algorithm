@@ -1,7 +1,9 @@
+package chp06;
+
 import java.util.Random;
 import java.util.Scanner;
 
-public class WiggleSort {
+public class pC {
     private static Random rand = new Random();
 
     public static void main(String[] args) {
